@@ -5,6 +5,10 @@ html, body {
                Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
 }
 
+body {
+    height: 100vh;
+}
+
 .main{
     border-top:1px solid gray;
     border-bottom:1px solid gray;
