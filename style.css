@@ -27,4 +27,15 @@ body {
 .head,.footer{
     padding: 15px;
     display: flex;
+    flex-direction: column;
+}
+
+.footerfooter{
+    display: flex;
+    text-align: center;
+    font-size:xx-small;
+    padding: 5px;
+    align-items: center;
+    justify-content: center;
+    border-top: 1px solid gray;
 }
