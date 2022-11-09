@@ -16,9 +16,10 @@ body {
     font-size:xx-small;
     display: flex;
     flex-direction: column;
-    flex: 100%;
 }
 
 .head,.footer{
     padding: 15px;
+    display: flex;
+    flex: 100%;
 }
