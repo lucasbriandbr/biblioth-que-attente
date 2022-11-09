@@ -10,4 +10,5 @@ html, body {
     border-bottom:1px solid gray;
     padding: 15px;
     font-size:xx-small;
+    display: flex;
 }
