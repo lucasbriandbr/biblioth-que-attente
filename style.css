@@ -42,6 +42,7 @@ body {
     text-align: center;
     font-size:xx-small;
     padding: 5px;
+    width: 100%;
     align-items: center;
     justify-content: center;
     border-top: 1px solid gray;
