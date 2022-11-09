@@ -14,3 +14,7 @@ html, body {
     flex-direction: column;
     flex: 100%;
 }
+
+.head,.footer{
+    padding: 15px;
+}
