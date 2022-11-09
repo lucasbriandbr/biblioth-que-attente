@@ -11,4 +11,6 @@ html, body {
     padding: 15px;
     font-size:xx-small;
     display: flex;
+    flex-direction: column;
+    flex: 100%;
 }
