@@ -24,10 +24,14 @@ body {
     height: -webkit-fill-available;
 }
 
-.head,.footer{
+.head,.footer,.headtitle{
     padding: 15px;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+}
+
+.headtitle{
+    border-top: 1px solid gray;
 }
 
 .footerfooter{
@@ -38,4 +42,10 @@ body {
     align-items: center;
     justify-content: center;
     border-top: 1px solid gray;
+}
+
+.icon{
+    display: flex;
+    width: 100%;
+    height: auto;
 }
