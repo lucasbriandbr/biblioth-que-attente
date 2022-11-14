@@ -19,7 +19,7 @@ body {
     border-top:1px solid gray;
     border-bottom:1px solid gray;
     padding: 15px;
-    font-size:xx-small;
+    font-size:small;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -38,7 +38,7 @@ body {
 }
 
 .footerfooter{
-    font-size:x-small;
+    font-size:xx-small;
     padding: 5px;
     width: 100%;
     border-top: 1px solid gray;
