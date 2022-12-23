@@ -34,6 +34,8 @@ body {
 
 .headtitle{
     border-top: 1px solid gray;
+    display: flex;
+    flex-direction: column;
 }
 
 .footerfooter{
