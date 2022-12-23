@@ -17,7 +17,6 @@ body {
 
 .main{
     border-top:1px solid gray;
-    border-bottom:1px solid gray;
     padding: 15px;
     /* font-size:small; */
     display: flex;
@@ -34,9 +33,9 @@ body {
 }
 
 .headtitle{
-    border-top: 1px solid gray;
     display: flex;
     flex-direction: column;
+    border-bottom:1px solid gray;
 }
 
 .footerfooter{
