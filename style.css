@@ -50,3 +50,10 @@ body {
     width: 100%;
     height: auto;
 }
+
+.section{
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid gray;
+}
